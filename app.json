@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "pft-tracker",
+    "slug": "pft-tracker",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/dumbbell.png",
+    "splash": {
+      "image": "./assets/dumbbell.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "2"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/dumbbell.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/dumbbell.png"
+    },
+    "description": ""
+  }
+}
